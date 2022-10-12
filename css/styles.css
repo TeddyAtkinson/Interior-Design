@@ -14,4 +14,26 @@ body{
 .alignment{
     text-align: center;
     display: block; 
+    width: 400px;
+    float: left;
+}
+
+.sidebar{
+    width: 25%;
+    height: 900px;
+    margin: 3%;
+    float: left;
+    background-color: rgb(43, 42, 42);
+    text-align: center;
+}
+
+/*.img-list{
+    list-style-type: none;
+    margin-left: 0%;
+}*/
+
+ul{
+    list-style-type: none;
+    padding-left: 0%;
+
 }
